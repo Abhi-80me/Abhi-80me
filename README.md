@@ -13,4 +13,4 @@ I build fast, functional, and user-focused web experiences.
 - 📧 Email: abhverma45@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/abhishek](https://www.linkedin.com/in/abhishek-verma-969a15251/)
 
-- 💻 LeetCode: [leetcode.com/u/Ethan038]()
+- 💻 LeetCode: [Leetcode.com/u/Abhishekverma](https://leetcode.com/u/Abhishekverma456/)
